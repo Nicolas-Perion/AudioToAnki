@@ -1,0 +1,5 @@
+URL = 'https://youtu.be/vVL6NFzr0Rg?si=uS-n4RibJY1hIyaj'
+TEMP_AUDIO_DIRECTORY_PATH = 'D:/NICOLAS/Projets Data Science/TranscriptToAnki/temp_audio'
+TRANSCRIPTIONS_DIRECTORY_PATH = 'D:/NICOLAS/Projets Data Science/TranscriptToAnki/transcriptions'
+COOKIES_PATH = 'D:/NICOLAS/Projets Data Science/TranscriptToAnki/cookies.txt'
+DENO_PATH = 'C:/Users/Portable1/.deno/bin/deno.exe'

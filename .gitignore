@@ -4,8 +4,14 @@
 #TO DO
 Etapes.txt
 
-#My cookies
+#My YT cookies
 cookies.txt
 
 #Test on my side
 temp_audio/
+
+#Pycache
+__pycache__/
+
+#Claude Code
+.claude/
