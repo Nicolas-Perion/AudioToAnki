@@ -13,5 +13,8 @@ temp_audio/
 #Pycache
 __pycache__/
 
-#Claude Code
-.claude/
+#Virtual Env
+.venv
+
+# requirements file for dev (with pip-tools)
+requirements-dev.txt
